@@ -1,0 +1,10 @@
+{
+  "name": "eslint-plugin-no-catch-all",
+  "version": "1.0.0",
+  "description": "prevent catch blocks that don't rethrow unexpected errors",
+  "main": "index.js",
+  "repository": "https://github.com/MrLoh/eslint-plugin-no-catch-all.git",
+  "author": "MrLoh <flojoto@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
